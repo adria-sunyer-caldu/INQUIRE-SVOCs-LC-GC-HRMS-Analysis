@@ -71,16 +71,21 @@ automatically on first run.
 
 ## License
 
-Code in this repository is released under the MIT License (see
-`LICENSE`). Data deposited on Zenodo is released separately under
-CC-BY 4.0.
+All content in this repository — code and data alike — is released under
+the [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+You are free to share and adapt this material for any purpose, including
+commercially, as long as you give appropriate credit.
+
+**Attribution:** Adrià Sunyer Caldú, Stockholm University — INQUIRE project.
+
+Data deposited separately on Zenodo is likewise released under CC-BY 4.0.
 
 ## Citation
 
-If you use this code, please cite:
-[Paper citation to be added upon publication]
+If you use this code or data, please give credit to:
+Adrià Sunyer Caldú, Stockholm University — [paper citation to be added upon publication]
 [Zenodo software DOI to be added]
 
 ## Contact
 
-Adrià Sunyer Caldú — [email/affiliation to be added]
+Adrià Sunyer Caldú — Stockholm University
